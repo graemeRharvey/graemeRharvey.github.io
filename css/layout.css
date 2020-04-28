@@ -54,6 +54,7 @@ header .banner {
    width: 85%;
    padding-bottom: 60px;
    text-align: center;
+   /* background-color: rgba(255, 255, 255, .1); */
 }
 
 header .banner-text { width: 100%; }
@@ -84,7 +85,7 @@ header .banner-text hr {
 
 /* header social links */
 header .social {
-   margin: 24px 0;
+   margin: 80px 0;
    padding: 0;
    font-size: 30px;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
@@ -593,7 +594,7 @@ ul#nav li.current a { color: #F06000; }
    color: #fff;
 }
 #call-to-action h1 span { display: none; }
-#call-to-action .header-col h1:before {
+/* #call-to-action .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f0ac";
 	padding-right: 10px;
@@ -602,7 +603,7 @@ ul#nav li.current a { color: #F06000; }
    text-align: left;
    float: left;
    color: #fff;
-}
+} */
 #call-to-action .action {
    margin-top: 12px;
 }
