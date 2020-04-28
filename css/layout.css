@@ -632,6 +632,10 @@ ul#nav li.current a { color: #F06000; }
    color: #636363;
    font-size: 17px;
 }
+#values .hr {
+   color: #7e7e7ec0;
+   align-self: center;
+}
 /*#
 values .button {
 	color:#fff;
