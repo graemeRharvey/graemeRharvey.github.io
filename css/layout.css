@@ -255,8 +255,8 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#career a, #career a:visited  { color: #11ABB0; }
-#career a:hover, #career a:focus { color: #313131; }
+#career a, #career a:visited  { color: #313131; }
+#career a:hover, #career a:focus { color: #11ABB0; }
 
 #career h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
