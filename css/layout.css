@@ -9,7 +9,7 @@
    a. General Styles
    b. Header Styles
    c. About Section
-   d. Current Section
+   d. Career Section
    e. Portfolio Section
    f. Values Section
    g. Reviews Section
@@ -245,51 +245,51 @@ ul#nav li.current a { color: #F06000; }
 
 
 /* ------------------------------------------------------------------ */
-/* d. Current Section
+/* d. Career Section
 /* ------------------------------------------------------------------ */
 
-#current {
+#career {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#current a, #current a:visited  { color: #11ABB0; }
-#current a:hover, #current a:focus { color: #313131; }
+#career a, #career a:visited  { color: #11ABB0; }
+#career a:hover, #career a:focus { color: #313131; }
 
-#current h1 {
+#career h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#current h1 span {
+#career h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
-#current h3 {
+#career h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#current .header-col { padding-top: 9px; }
-#current .main-col { padding-right: 10%; }
+#career .header-col { padding-top: 9px; }
+#career .main-col { padding-right: 10%; }
 
 .works, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#current .info {
+#career .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#current .info span {
+#career .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
-#current .date {
+#career .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
@@ -632,7 +632,7 @@ ul#nav li.current a { color: #F06000; }
    color: #636363;
    font-size: 17px;
 }
-#values .hr {
+#values hr {
    color: #7e7e7ec0;
    align-self: center;
 }
